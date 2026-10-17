@@ -1,0 +1,23 @@
+{
+  "claim_generator_info": [
+    {
+      "name": "EQuest-Stamp",
+      "version": "1.0"
+    }
+  ],
+  "title": "",
+  "format": "",
+  "assertions": [
+    {
+      "label": "c2pa.actions",
+      "data": {
+        "actions": [
+          {
+            "action": "c2pa.created",
+            "digitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia"
+          }
+        ]
+      }
+    }
+  ]
+}
